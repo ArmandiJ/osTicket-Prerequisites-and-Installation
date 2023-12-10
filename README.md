@@ -27,19 +27,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps </h2>
 
-1. Create a Virtual Machine (VM) in Azure
-1. Go to portal.azure.com and create an account.
-2. After creating an account, create a resource group.
-3. Then create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs (vcpus) and allow it to create a new Virtual Network (Vnet)
+- Create a Virtual Machine (VM) in Azure by going to portal.azure.com and creating an account.
+- Then create a resource group and a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs (vcpus) and allow it to create a new Virtual Network (Vnet)
 <p>
 
   ![image](https://github.com/ArmandiJ/osTicket-Prerequisites-and-Installation/assets/153237878/7bf2413b-383c-4732-87ee-70c5cad52726)
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+-Using the VM's public IP address connect to the VM through remote desktop connection (Microsoft Remote Desktop if you're on a Mac)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
